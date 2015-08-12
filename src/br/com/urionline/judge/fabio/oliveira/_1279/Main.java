@@ -1,4 +1,4 @@
-package br.com.urionline.judge.fabio.oliveira._1279.simulado;
+package br.com.urionline.judge.fabio.oliveira._1279;
 
 import java.math.BigInteger;
 import java.util.Scanner;

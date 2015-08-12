@@ -1,4 +1,4 @@
-package br.com.urionline.judge.fabio.oliveira._1234.simulado;
+package br.com.urionline.judge.fabio.oliveira._1234;
 
 import java.util.Scanner;
 
